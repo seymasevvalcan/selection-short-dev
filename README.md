@@ -24,3 +24,5 @@ Time Complexity: Dizi sıralandıktan sonra 18 sayısı aşağıdaki case'lerden
 [2,3,4,5,7,8,9,15,6]
 
 [2,3,4,5,6,8,9,15,7]
+
+ www.patika.dev 
